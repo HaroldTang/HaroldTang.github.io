@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haroldtang.github.io/</id>
-    <title>Xucheng Tang HomePage</title>
-    <updated>2019-11-01T20:02:03.032Z</updated>
+    <title>HomePage</title>
+    <updated>2019-11-01T20:34:18.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haroldtang.github.io/"/>
     <link rel="self" href="https://haroldtang.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://haroldtang.github.io//images/avatar.png</logo>
     <icon>https://haroldtang.github.io//favicon.ico</icon>
-    <rights>All rights reserved 2019, Xucheng Tang HomePage</rights>
+    <rights>All rights reserved 2019, HomePage</rights>
     <entry>
         <title type="html"><![CDATA[Madison之旅]]></title>
-        <id>https://haroldtang.github.io//post/madison-zhi-lu</id>
-        <link href="https://haroldtang.github.io//post/madison-zhi-lu">
+        <id>https://haroldtang.github.io//post/madison</id>
+        <link href="https://haroldtang.github.io//post/madison">
         </link>
-        <updated>2019-11-01T07:57:59.000Z</updated>
+        <updated>2019-10-31T19:57:59.000Z</updated>
         <content type="html"><![CDATA[<p><img src="https://haroldtang.github.io//post-images/1572638260070.JPG" alt=""><br>
 放一张照片看看效果.jpg</p>
 ]]></content>
