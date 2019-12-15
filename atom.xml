@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haroldtang.github.io/</id>
     <title>HomePage</title>
-    <updated>2019-11-01T21:50:43.264Z</updated>
+    <updated>2019-12-15T22:30:56.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haroldtang.github.io/"/>
     <link rel="self" href="https://haroldtang.github.io//atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://haroldtang.github.io//images/avatar.png</logo>
     <icon>https://haroldtang.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, HomePage</rights>
+    <entry>
+        <title type="html"><![CDATA[寒假计划]]></title>
+        <id>https://haroldtang.github.io//post/han-jia-ji-hua</id>
+        <link href="https://haroldtang.github.io//post/han-jia-ji-hua">
+        </link>
+        <updated>2019-12-14T14:10:19.000Z</updated>
+        <content type="html"><![CDATA[<p>先计划完成Wallpaper Engine的Leon Sans展示效果，WebGL<br>
+完成React学习计划<br>
+AWS部署和学习</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://haroldtang.github.io//post/hello-gridea</id>
