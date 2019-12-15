@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haroldtang.github.io/</id>
     <title>HomePage</title>
-    <updated>2019-12-15T22:32:33.063Z</updated>
+    <updated>2019-12-15T22:38:59.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haroldtang.github.io/"/>
     <link rel="self" href="https://haroldtang.github.io//atom.xml"/>
@@ -15,10 +15,15 @@
         <id>https://haroldtang.github.io//post/han-jia-ji-hua</id>
         <link href="https://haroldtang.github.io//post/han-jia-ji-hua">
         </link>
-        <updated>2019-12-14T14:10:19.000Z</updated>
-        <content type="html"><![CDATA[<p>先计划完成Wallpaper Engine的Leon Sans展示效果，WebGL<br>
-完成React学习计划<br>
-AWS部署和学习</p>
+        <updated>2019-12-14T01:10:19.000Z</updated>
+        <content type="html"><![CDATA[<ul>
+<li>计划完成Wallpaper Engine的Leon Sans展示效果，WebGL - 用作桌面动态效果展示<br>
+预计完成时间：2天</li>
+<li>完成React学习计划<br>
+预计完成时间：2周</li>
+<li>AWS部署和学习</li>
+<li>VueJS</li>
+</ul>
 ]]></content>
     </entry>
 </feed>
