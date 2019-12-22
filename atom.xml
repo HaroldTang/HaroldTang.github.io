@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haroldtang.github.io/</id>
     <title>HomePage</title>
-    <updated>2019-12-15T22:38:59.790Z</updated>
+    <updated>2019-12-22T19:36:26.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haroldtang.github.io/"/>
     <link rel="self" href="https://haroldtang.github.io//atom.xml"/>
@@ -11,11 +11,28 @@
     <icon>https://haroldtang.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, HomePage</rights>
     <entry>
+        <title type="html"><![CDATA[RSS]]></title>
+        <id>https://haroldtang.github.io//post/rss</id>
+        <link href="https://haroldtang.github.io//post/rss">
+        </link>
+        <updated>2019-12-21T14:45:26.000Z</updated>
+        <content type="html"><![CDATA[<p>搞定RSS订阅，计划采用Tiny Tiny RSS + Feedly + Reeder 3完成。<br>
+想要订阅的频道：</p>
+<ul>
+<li>All things distributed - Amazon Tech Blog</li>
+<li>少数派 SSPai</li>
+<li>爱范儿 Ifanr</li>
+<li>数字尾巴<br>
+重读自己在Feedly的收藏，并将它们转移至Notion</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[寒假计划]]></title>
         <id>https://haroldtang.github.io//post/han-jia-ji-hua</id>
         <link href="https://haroldtang.github.io//post/han-jia-ji-hua">
         </link>
-        <updated>2019-12-14T01:10:19.000Z</updated>
+        <updated>2019-12-13T12:10:19.000Z</updated>
         <content type="html"><![CDATA[<ul>
 <li>计划完成Wallpaper Engine的Leon Sans展示效果，WebGL - 用作桌面动态效果展示<br>
 预计完成时间：2天</li>
@@ -23,6 +40,17 @@
 预计完成时间：2周</li>
 <li>AWS部署和学习</li>
 <li>VueJS</li>
+</ul>
+<hr>
+<ul>
+<li>了解亚马逊内部转组</li>
+<li>联系西雅图manager</li>
+</ul>
+<hr>
+<ul>
+<li>了解OPT具体申请流程</li>
+<li>了解EAD具体申请流程</li>
+<li>和亚马逊人员沟通H1B抽签流程</li>
 </ul>
 ]]></content>
     </entry>
