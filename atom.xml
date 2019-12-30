@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haroldtang.github.io/</id>
     <title>HomePage</title>
-    <updated>2019-12-22T19:36:26.192Z</updated>
+    <updated>2019-12-30T05:55:35.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haroldtang.github.io/"/>
     <link rel="self" href="https://haroldtang.github.io//atom.xml"/>
@@ -32,7 +32,7 @@
         <id>https://haroldtang.github.io//post/han-jia-ji-hua</id>
         <link href="https://haroldtang.github.io//post/han-jia-ji-hua">
         </link>
-        <updated>2019-12-13T12:10:19.000Z</updated>
+        <updated>2019-12-12T10:10:19.000Z</updated>
         <content type="html"><![CDATA[<ul>
 <li>计划完成Wallpaper Engine的Leon Sans展示效果，WebGL - 用作桌面动态效果展示<br>
 预计完成时间：2天</li>
@@ -51,6 +51,11 @@
 <li>了解OPT具体申请流程</li>
 <li>了解EAD具体申请流程</li>
 <li>和亚马逊人员沟通H1B抽签流程</li>
+<li>熟悉SSN申请流程</li>
+</ul>
+<hr>
+<ul>
+<li>了解胶片机和胶卷</li>
 </ul>
 ]]></content>
     </entry>
